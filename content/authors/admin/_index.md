@@ -38,11 +38,11 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/danbo-chen/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=GNvuu_IAAAAJ&hl=en
+    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
